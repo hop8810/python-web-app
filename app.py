@@ -8,4 +8,4 @@ app = Flask(__name__)
 
 def hello_world():
 
-    return 'Hello, World!'
+    return 'Toto je prvni zmena'
